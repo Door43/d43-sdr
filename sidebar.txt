@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sdr:home|Door43 (sdr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sdr|d43-sdr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sdr/archive/master.zip|d43-sdr.zip]]
+
+**Recent Changes**
+{{changes>ns = sdr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sdr|Ethnologue data]]
+
